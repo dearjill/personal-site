@@ -201,7 +201,7 @@ strong, b {
     min-height: 60vh;
     max-height: 32em;
     padding: 6em 0 2em 0;
-    background-image: url('images/banner.jpg'); /* CHANGE THIS IMAGE */
+    background-image: url('images:banner.jpg'); /* CHANGE THIS IMAGE */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
