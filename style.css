@@ -438,6 +438,11 @@ article a.link {
 }
 
 .text-box {
+  position: relative;
+  z-index: 1;
+}
+
+.text-box {
   background-color: rgba(0, 0, 0, 0.40); /* black at 40% transparency */
   color: white;
   padding: 16px;
