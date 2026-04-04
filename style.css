@@ -427,7 +427,7 @@ strong, b {
 /* TILE OVERLAY COLORS - CUSTOMIZE THESE */
 .tiles article.tile-1::before { background-color: #6fc3df; }
 .text-box {
-  background-color: rgba(0, 0, 0, 0.50); /* black at 50% transparency */
+  background-color: rgba(0, 0, 0, 0.40); /* black at 40% transparency */
   color: white;
   padding: 16px;
   border-radius: 8px;
