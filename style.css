@@ -426,6 +426,17 @@ strong, b {
 
 /* TILE OVERLAY COLORS - CUSTOMIZE THESE */
 .tiles article.tile-1::before { background-color: #6fc3df; }
+
+article {
+  position: relative;
+}
+
+article a.link {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
+
 .text-box {
   background-color: rgba(0, 0, 0, 0.40); /* black at 40% transparency */
   color: white;
