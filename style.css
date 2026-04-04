@@ -431,6 +431,8 @@ strong, b {
   color: white;
   padding: 16px;
   border-radius: 8px;
+   position: relative;
+  z-index: 1;
 }
 .tiles article.tile-2::before { background-color: #8d82c4; }
 .tiles article.tile-3::before { background-color: #ec8d81; }
