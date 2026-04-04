@@ -426,6 +426,12 @@ strong, b {
 
 /* TILE OVERLAY COLORS - CUSTOMIZE THESE */
 .tiles article.tile-1::before { background-color: #6fc3df; }
+.text-box {
+  background-color: rgba(0, 0, 0, 0.5); /* black at 50% transparency */
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+}
 .tiles article.tile-2::before { background-color: #8d82c4; }
 .tiles article.tile-3::before { background-color: #ec8d81; }
 .tiles article.tile-4::before { background-color: #e7b788; }
