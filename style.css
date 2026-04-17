@@ -432,6 +432,14 @@ strong, b {
     object-fit: cover;
 }
 
+.tile-wrapper:first-child .tile-image img {
+    object-position: top;
+}
+
+.tile-wrapper:nth-child(4) .tile-image img {
+    object-position: top;
+}
+
 /* TILE COLORS */
 .tiles article.tile-1::before { background-color: #6fc3df; }
 .tiles article.tile-2::before { background-color: #8d82c4; }
