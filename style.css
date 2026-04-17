@@ -525,6 +525,7 @@ article a.link {
 
 #contact > .inner {
     display: flex;
+    justify-content: center;
     max-width: 65em;
     margin: 0 auto;
     padding: 0;
@@ -532,7 +533,8 @@ article a.link {
 
 #contact > .inner > section:first-child {
     width: 60%;
-    padding: 4em 3em 2em 0;
+    padding: 4em 3em 2em 3em;
+   text-align: center;
 }
 
 #contact > .inner > .split {
@@ -547,6 +549,10 @@ article a.link {
 
 #contact .split section:first-child {
     border-top: 0;
+}
+
+#contact > .inner > section:first-child .fields {
+    text-align: left; /* ← keeps labels/inputs left-aligned while form is centered */
 }
 
 .contact-method {
