@@ -459,6 +459,12 @@ article a.link {
     width: 100%;
     height: 100%;
     z-index: 4;
+
+.tiles article.tile-2 .text-box { background-color: rgba(141, 130, 196, 0.90); }
+.tiles article.tile-3 .text-box { background-color: rgba(236, 141, 129, 0.90); }
+.tiles article.tile-4 .text-box { background-color: rgba(231, 183, 136, 0.90); }
+.tiles article.tile-5 .text-box { background-color: rgba(142, 169, 232, 0.90); }
+.tiles article.tile-6 .text-box { background-color: rgba(135, 197, 164, 0.90); }
 }
 
 /* ========================================
