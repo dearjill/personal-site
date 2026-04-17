@@ -439,7 +439,7 @@ article a.link {
 }
 
 .text-box {
-  background-color: rgba(0, 0, 0, 0.70); /* black at 70% transparency */
+  background-color: rgba(0, 0, 0, 0.90); /* black at 90% transparency */
   color: white;
   padding: 16px;
   border-radius: 8px;
