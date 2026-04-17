@@ -360,8 +360,6 @@ strong, b {
 .tiles {
     display: flex;
     flex-wrap: wrap;
-   width: 100%;
-   max-width: 100%;
 }
 
 .tiles article {
