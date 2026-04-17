@@ -479,7 +479,6 @@ article a.link {
 #contact > .inner > section:first-child {
     width: 60%;
     padding: 4em 3em 2em 0;
-    border-right: solid 1px var(--border-color);
 }
 
 #contact > .inner > .split {
